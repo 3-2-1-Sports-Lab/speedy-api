@@ -1,2 +1,2 @@
 # speedy-api
-Trail speed analytics application
+Trail analytics application for mountain bikers focused on descending.
